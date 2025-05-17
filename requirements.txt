@@ -1,0 +1,15 @@
+altair
+pandas
+streamlit
+joblib
+numpy
+torch
+requests
+plotly
+pandas
+scikit-learn
+rdkit
+fuzzywuzzy
+transformers
+python-Levenshtein
+einops
